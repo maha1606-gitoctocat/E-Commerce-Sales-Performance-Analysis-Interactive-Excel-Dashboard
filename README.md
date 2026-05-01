@@ -22,11 +22,12 @@ Total Products: 34
 - Using formulas (SUM, AVERAGE, COUNT)
 - Creating Pivot Tables
 - Generating charts for visualization
-##  Key Insights
-- Identified top-performing products
-- Analyzed total sales and revenue trends
-- Compared product performance
-- Observed patterns in customer purchasing behavior
+##   Executive-Level Summary
+Stanford leads in both peak and average performance.
+MBA is the most demanded program.
+IB & Finance dominate domain interest.
+There is a large performance gap between top-tier and lower-performing institutions
+Student interest is strongly business-oriented.
 
 
 
