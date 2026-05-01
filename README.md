@@ -27,12 +27,4 @@ Total Products: 34
 - Analyzed total sales and revenue trends
 - Compared product performance
 - Observed patterns in customer purchasing behavior
-## Learning Outcomes
-- Improved Excel data analysis skills
-- Better understanding of data structure
-- Hands-on experience with real dataset
-- Strengthened problem-solving ability
-## 📎 Project Files
-- Excel Dataset File (.xlsx)
-- Screenshots of analysis
-- Charts and summary report
+
