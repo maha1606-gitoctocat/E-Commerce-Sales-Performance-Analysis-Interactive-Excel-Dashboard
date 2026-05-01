@@ -29,10 +29,10 @@ IB & Finance dominate domain interest.
 There is a large performance gap between top-tier and lower-performing institutions
 Student interest is strongly business-oriented.
 
+![Alt Text](https://github.com/maha1606-gitoctocat/Excel-Project/blob/cf9ac6e0a7ae440f0cc27c0097327a8b3c7efed9/Output/Dashboard)
 
 
 
-![Alt Text]https://github.com/maha1606-gitoctocat/Excel-Project/blob/fd1305b37650e874de77fd7a72f1cfbbd45c45ac/Output/Dashboard
 
 
 
